@@ -1,0 +1,641 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ArticleProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ArticleProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Animation-Cards-1.css",
+      "PackagePath": "staticwebassets\\css\\Animation-Cards-1.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Animation-Cards.css",
+      "PackagePath": "staticwebassets\\css\\Animation-Cards.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Article-Cards.css",
+      "PackagePath": "staticwebassets\\css\\Article-Cards.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Article-Clean.css",
+      "PackagePath": "staticwebassets\\css\\Article-Clean.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Article-List.css",
+      "PackagePath": "staticwebassets\\css\\Article-List.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Black-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Black-Navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Login-Form-Clean.css",
+      "PackagePath": "staticwebassets\\css\\Login-Form-Clean.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Login-Form-Dark.css",
+      "PackagePath": "staticwebassets\\css\\Login-Form-Dark.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Navbar---Apple-1.css",
+      "PackagePath": "staticwebassets\\css\\Navbar---Apple-1.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Navbar---Apple.css",
+      "PackagePath": "staticwebassets\\css\\Navbar---Apple.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Navigation-with-Button.css",
+      "PackagePath": "staticwebassets\\css\\Navigation-with-Button.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Navigation-with-Search.css",
+      "PackagePath": "staticwebassets\\css\\Navigation-with-Search.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\News-Cards.css",
+      "PackagePath": "staticwebassets\\css\\News-Cards.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Off-Canvas-Sidebar-Drawer-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Off-Canvas-Sidebar-Drawer-Navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Responsive-UI-Card-02.css",
+      "PackagePath": "staticwebassets\\css\\Responsive-UI-Card-02.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Right-Sidebar.css",
+      "PackagePath": "staticwebassets\\css\\Right-Sidebar.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\SIdebar-Responsive-2-1.css",
+      "PackagePath": "staticwebassets\\css\\SIdebar-Responsive-2-1.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\SIdebar-Responsive-2.css",
+      "PackagePath": "staticwebassets\\css\\SIdebar-Responsive-2.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Sidebar-Menu-1.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-Menu-1.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Sidebar-Menu.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-Menu.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Sidebar-right-opening.css",
+      "PackagePath": "staticwebassets\\css\\Sidebar-right-opening.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Social-Icons.css",
+      "PackagePath": "staticwebassets\\css\\Social-Icons.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Soft-UI-Aside-Navbar.css",
+      "PackagePath": "staticwebassets\\css\\Soft-UI-Aside-Navbar.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Studious-sidebar.css",
+      "PackagePath": "staticwebassets\\css\\Studious-sidebar.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Team-Boxed.css",
+      "PackagePath": "staticwebassets\\css\\Team-Boxed.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\Vertical-Left-SideBar-by-Jigar-Mistry.css",
+      "PackagePath": "staticwebassets\\css\\Vertical-Left-SideBar-by-Jigar-Mistry.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\dh-card-image-left-dark.css",
+      "PackagePath": "staticwebassets\\css\\dh-card-image-left-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\dh-navbar-inverse.css",
+      "PackagePath": "staticwebassets\\css\\dh-navbar-inverse.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\ionicons.min.css",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\0229ffa5-ea06-4bd1-8e87-6245a1d25ce6-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\0229ffa5-ea06-4bd1-8e87-6245a1d25ce6-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\0236256f-95f1-4cdc-8e7d-b62d31da1c06-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\0236256f-95f1-4cdc-8e7d-b62d31da1c06-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\144c8626-c016-45ce-9dcf-92f20999c9ff-e.jpg",
+      "PackagePath": "staticwebassets\\images\\144c8626-c016-45ce-9dcf-92f20999c9ff-e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\17d52e41-b224-4389-b1b3-f09e492ad729-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\17d52e41-b224-4389-b1b3-f09e492ad729-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\1bfa2035-bb19-4fbd-9e67-a4d46dabaab8-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\1bfa2035-bb19-4fbd-9e67-a4d46dabaab8-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\1f735fc8-24d0-44df-aba7-abf3a9ec2952-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\1f735fc8-24d0-44df-aba7-abf3a9ec2952-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\28fe54c5-4bc7-4e9e-857f-9eee689e5c35-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\28fe54c5-4bc7-4e9e-857f-9eee689e5c35-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\2bd76bd9-0f5e-4622-a254-c1b7b897791a-d.jpg",
+      "PackagePath": "staticwebassets\\images\\2bd76bd9-0f5e-4622-a254-c1b7b897791a-d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\2d704962-9e93-42c1-945b-fe09e5be8115-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\2d704962-9e93-42c1-945b-fe09e5be8115-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\3216ef7b-bd78-4204-8631-ffac29ccfd99-d.jpg",
+      "PackagePath": "staticwebassets\\images\\3216ef7b-bd78-4204-8631-ffac29ccfd99-d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\45e10bfa-975a-421a-b1fc-4e6b43a69412-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\45e10bfa-975a-421a-b1fc-4e6b43a69412-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\648a4307-a333-400b-97be-5f3719532474-e.jpg",
+      "PackagePath": "staticwebassets\\images\\648a4307-a333-400b-97be-5f3719532474-e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\6b2d7eae-037c-4b1e-b9b4-2947e76f73e6-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\6b2d7eae-037c-4b1e-b9b4-2947e76f73e6-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\6fa482c5-27d9-4d09-9d49-e0a5d60dc521-lannister_by_thewoollyone-d55xhji.jpg",
+      "PackagePath": "staticwebassets\\images\\6fa482c5-27d9-4d09-9d49-e0a5d60dc521-lannister_by_thewoollyone-d55xhji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\8d90842b-c0ad-4258-94e6-d45704106117-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\8d90842b-c0ad-4258-94e6-d45704106117-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\a64efd91-55e8-4a5c-b66b-c4fda6469aa7-lannister_by_thewoollyone-d55xhji.jpg",
+      "PackagePath": "staticwebassets\\images\\a64efd91-55e8-4a5c-b66b-c4fda6469aa7-lannister_by_thewoollyone-d55xhji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\a7cbfee5-a7db-4701-a6b2-9ceac2c4ed32-d.jpg",
+      "PackagePath": "staticwebassets\\images\\a7cbfee5-a7db-4701-a6b2-9ceac2c4ed32-d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\ac5aed21-674f-460e-b434-232fcf5a682b-e.jpg",
+      "PackagePath": "staticwebassets\\images\\ac5aed21-674f-460e-b434-232fcf5a682b-e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\b875d223-c23c-4211-a2e6-70c169d4d072-e.jpg",
+      "PackagePath": "staticwebassets\\images\\b875d223-c23c-4211-a2e6-70c169d4d072-e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\bb8f7123-61ea-422d-81fd-a6ddc28be8ba-e.jpg",
+      "PackagePath": "staticwebassets\\images\\bb8f7123-61ea-422d-81fd-a6ddc28be8ba-e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\d0e3d6d9-b452-4ae5-a8cf-2be0cfe74839-d.jpg",
+      "PackagePath": "staticwebassets\\images\\d0e3d6d9-b452-4ae5-a8cf-2be0cfe74839-d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\d260fe17-969a-4bea-81d7-00945c484520-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\d260fe17-969a-4bea-81d7-00945c484520-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\e0f47034-e772-4df9-a46d-b3b79a89025c-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\e0f47034-e772-4df9-a46d-b3b79a89025c-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\ec75971e-8dc2-4655-b087-a0c69a384a02-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\ec75971e-8dc2-4655-b087-a0c69a384a02-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\ece2f77a-5957-4c7f-ab1f-183727554657-e.jpg",
+      "PackagePath": "staticwebassets\\images\\ece2f77a-5957-4c7f-ab1f-183727554657-e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\images\\fd2351aa-a91f-4ebd-83de-fcf974166c11-dd.jpg",
+      "PackagePath": "staticwebassets\\images\\fd2351aa-a91f-4ebd-83de-fcf974166c11-dd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\Screenshot 2021-08-18 014017.png",
+      "PackagePath": "staticwebassets\\img\\Screenshot 2021-08-18 014017.png"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\beach.jpg",
+      "PackagePath": "staticwebassets\\img\\beach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\building.jpg",
+      "PackagePath": "staticwebassets\\img\\building.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\desk.jpg",
+      "PackagePath": "staticwebassets\\img\\desk.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\expansion.png",
+      "PackagePath": "staticwebassets\\img\\expansion.png"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\loft.jpg",
+      "PackagePath": "staticwebassets\\img\\loft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\img\\logo-ct.png"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\paleta-sensores.jpg",
+      "PackagePath": "staticwebassets\\img\\paleta-sensores.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\portfolio\\cabin.png",
+      "PackagePath": "staticwebassets\\img\\portfolio\\cabin.png"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\product-aeon-feature.jpg",
+      "PackagePath": "staticwebassets\\img\\product-aeon-feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\img\\profile.png",
+      "PackagePath": "staticwebassets\\img\\profile.png"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\Navbar---Apple.js",
+      "PackagePath": "staticwebassets\\js\\Navbar---Apple.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\Off-Canvas-Sidebar-Drawer-Navbar-1.js",
+      "PackagePath": "staticwebassets\\js\\Off-Canvas-Sidebar-Drawer-Navbar-1.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\Off-Canvas-Sidebar-Drawer-Navbar.js",
+      "PackagePath": "staticwebassets\\js\\Off-Canvas-Sidebar-Drawer-Navbar.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\Right-Sidebar.js",
+      "PackagePath": "staticwebassets\\js\\Right-Sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\Sidebar-Menu.js",
+      "PackagePath": "staticwebassets\\js\\Sidebar-Menu.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\Sidebar-right-opening.js",
+      "PackagePath": "staticwebassets\\js\\Sidebar-right-opening.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\Studious-sidebar.js",
+      "PackagePath": "staticwebassets\\js\\Studious-sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\bs-init-1.js",
+      "PackagePath": "staticwebassets\\js\\bs-init-1.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\bs-init.js",
+      "PackagePath": "staticwebassets\\js\\bs-init.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\chart.min.js",
+      "PackagePath": "staticwebassets\\js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\freelancer.js",
+      "PackagePath": "staticwebassets\\js\\freelancer.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\js\\theme.js",
+      "PackagePath": "staticwebassets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\nour\\source\\repos\\Articles\\Articles\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ArticleProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ArticleProject.props",
+      "PackagePath": "build\\ArticleProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ArticleProject.props",
+      "PackagePath": "buildMultiTargeting\\ArticleProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ArticleProject.props",
+      "PackagePath": "buildTransitive\\ArticleProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

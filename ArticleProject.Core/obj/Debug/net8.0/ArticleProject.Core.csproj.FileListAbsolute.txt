@@ -1,0 +1,11 @@
+C:\Users\nour\source\repos\Articles\ArticleProject.Core\bin\Debug\net8.0\ArticleProject.Core.deps.json
+C:\Users\nour\source\repos\Articles\ArticleProject.Core\bin\Debug\net8.0\ArticleProject.Core.dll
+C:\Users\nour\source\repos\Articles\ArticleProject.Core\bin\Debug\net8.0\ArticleProject.Core.pdb
+C:\Users\nour\source\repos\Articles\ArticleProject.Core\obj\Debug\net8.0\ArticleProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nour\source\repos\Articles\ArticleProject.Core\obj\Debug\net8.0\ArticleProject.Core.AssemblyInfoInputs.cache
+C:\Users\nour\source\repos\Articles\ArticleProject.Core\obj\Debug\net8.0\ArticleProject.Core.AssemblyInfo.cs
+C:\Users\nour\source\repos\Articles\ArticleProject.Core\obj\Debug\net8.0\ArticleProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\nour\source\repos\Articles\ArticleProject.Core\obj\Debug\net8.0\ArticleProject.Core.dll
+C:\Users\nour\source\repos\Articles\ArticleProject.Core\obj\Debug\net8.0\refint\ArticleProject.Core.dll
+C:\Users\nour\source\repos\Articles\ArticleProject.Core\obj\Debug\net8.0\ArticleProject.Core.pdb
+C:\Users\nour\source\repos\Articles\ArticleProject.Core\obj\Debug\net8.0\ref\ArticleProject.Core.dll

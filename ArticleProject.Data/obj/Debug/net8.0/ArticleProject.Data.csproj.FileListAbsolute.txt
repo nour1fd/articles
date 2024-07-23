@@ -1,0 +1,17 @@
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\bin\Debug\net8.0\ArticleProject.Data.deps.json
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\bin\Debug\net8.0\ArticleProject.Data.runtimeconfig.json
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\bin\Debug\net8.0\ArticleProject.Data.dll
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\bin\Debug\net8.0\ArticleProject.Data.pdb
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\bin\Debug\net8.0\ArticleProject.Core.dll
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\bin\Debug\net8.0\ArticleProject.Core.pdb
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\obj\Debug\net8.0\ArticleProject.Data.csproj.AssemblyReference.cache
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\obj\Debug\net8.0\ArticleProject.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\obj\Debug\net8.0\ArticleProject.Data.AssemblyInfoInputs.cache
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\obj\Debug\net8.0\ArticleProject.Data.AssemblyInfo.cs
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\obj\Debug\net8.0\ArticleProject.Data.csproj.CoreCompileInputs.cache
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\obj\Debug\net8.0\ArticleProject.Data.csproj.CopyComplete
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\obj\Debug\net8.0\ArticleProject.Data.dll
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\obj\Debug\net8.0\refint\ArticleProject.Data.dll
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\obj\Debug\net8.0\ArticleProject.Data.pdb
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\obj\Debug\net8.0\ArticleProject.Data.genruntimeconfig.cache
+C:\Users\nour\source\repos\Articles\ArticleProject.Data\obj\Debug\net8.0\ref\ArticleProject.Data.dll

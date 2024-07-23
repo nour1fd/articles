@@ -1,0 +1,56 @@
+﻿@model IEnumerable<ArticleProject.Core.Category>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Pages/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create"> اضافة صنف </a>
+
+</p>
+<form method="get" asp-action="Search" >
+
+    <input type="search" name="SearchItem" class="search-field"/>
+    <input type="submit" value="بحث" class="btn-primary"/>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@{
+    if (Model.ToList().Count < 5)
+    {
+        int id = 0;
+        <a asp-action="index" asp-route-id="@id">الصفحة الاوللا</a>
+
+    }
+    else
+    {
+        <a asp-action="index" asp-route-id="@Model.ToList().Last().Id">التالي</a>
+ 
+
+    }
+}
